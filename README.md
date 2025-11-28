@@ -1,4 +1,4 @@
-# {Proyecto: VSM Vending State MAchine}
+# {Proyecto: VSM Vending State Machine}
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)  
 ![Basys 3](https://img.shields.io/badge/Basys%203-0066A1?style=for-the-badge&logo=digilent&logoColor=white)
@@ -90,16 +90,25 @@ Con estas instalaciones y configuraciones, el entorno queda completamente prepar
 
 ## 🛠️ Configuración del Proyecto
 
-FALTAAAA AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-Instrucciones para clonar el repositorio, compilar, lanzar el mundo simulado y ejecutar los nodos o scripts:
+# 1. Clonar el repositorio
+git clone https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-.git
 
-```bash
-git clone https://github.com/usuario/proyecto-simulacion.git
-cd proyecto-simulacion
-catkin_make
-source devel/setup.bash
-roslaunch proyecto_simulacion main.launch
-```
+# 2. Entrar al proyecto
+cd VSM-VENDING-STATE-MACHINE-
+
+# 3. Crear la carpeta de trabajo para Vivado (opcional pero recomendado)
+mkdir vivado_project
+cd vivado_project
+
+# 4. Crear un nuevo proyecto vacío desde Vivado (esto se hace en GUI),
+# pero desde bash puedes abrir Vivado así:
+vivado &
+
+# 5. Luego, desde Vivado:
+#   - Crear un nuevo proyecto
+#   - Importar todos los archivos .vhd desde /src/
+#   - Importar el archivo .xdc para asignación de pines
+#   - Seleccionar tu FPGA (ej: Basys 3 = xc7a35tcpg236-1)
 
 ## 💻 Programación
 
