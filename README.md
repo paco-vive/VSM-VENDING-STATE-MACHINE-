@@ -90,25 +90,25 @@ Con estas instalaciones y configuraciones, el entorno queda completamente prepar
 
 ## 🛠️ Configuración del Proyecto
 
-# 1. Clonar el repositorio
+1. Clonar el repositorio
 git clone https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-.git
 
-# 2. Entrar al proyecto
+2. Entrar al proyecto
 cd VSM-VENDING-STATE-MACHINE-
 
-# 3. Crear la carpeta de trabajo para Vivado (opcional pero recomendado)
+3. Crear la carpeta de trabajo para Vivado (opcional pero recomendado)
 mkdir vivado_project
 cd vivado_project
 
-# 4. Crear un nuevo proyecto vacío desde Vivado (esto se hace en GUI),
-# pero desde bash puedes abrir Vivado así:
+4. Crear un nuevo proyecto vacío desde Vivado (esto se hace en GUI),
+pero desde bash puedes abrir Vivado así:
 vivado &
 
-# 5. Luego, desde Vivado:
-#   - Crear un nuevo proyecto
-#   - Importar todos los archivos .vhd desde /src/
-#   - Importar el archivo .xdc para asignación de pines
-#   - Seleccionar tu FPGA (ej: Basys 3 = xc7a35tcpg236-1)
+5. Luego, desde Vivado:
+   - Crear un nuevo proyecto
+   - Importar todos los archivos .vhd desde /src/
+   - Importar el archivo .xdc para asignación de pines
+   - Seleccionar tu FPGA (ej: Basys 3 = xc7a35tcpg236-1)
 
 ## 💻 Programación
 
