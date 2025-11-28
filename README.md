@@ -276,6 +276,6 @@ Francisco Viveros Mendoza
 
 ¿Tienes dudas o sugerencias?
 
-- 📧 Correo electrónico: ejemplo@udlap.mx
+- 📧 Correo electrónico: sofia.juarezps@udlap.mx
 
 ---
