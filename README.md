@@ -1,2 +1,108 @@
-# VSM-VENDING-STATE-MACHINE-
-This project implements a fully functional vending machine controller using VHDL oMáquina EXPENDEDORA de Estadosn an FPGA. The system supports five products, accepts four coin types (1, 2, 5, 10 MXN), and uses a finite state machine to manage product selection, price display, coin counting, and product dispensing.Máquina EXPENDEDORA de Estados
+# {Proyecto: Nombre del Proyecto Simulado}  
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)  
+![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)  
+[![RoboDK](https://img.shields.io/badge/Uses-RoboDK-blue?style=for-the-badge&logo=robodk)](https://robodk.com/)  
+[![Webots](https://img.shields.io/badge/Uses-Webots-cc3333?style=for-the-badge&logo=cyberbotics&logoColor=white)](https://cyberbotics.com/)  
+![Gazebo](https://img.shields.io/badge/Gazebo-black?style=for-the-badge&logo=ros&logoColor=white)  
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+
+Breve descripción del proyecto
+
+---
+
+## 📋 Requisitos Previos
+
+- Conocimiento sólido de **diseño digital**, incluyendo lógica combinacional, circuitos secuenciales y máquinas de estados.  
+- Experiencia en **programación y simulación en VHDL**.  
+- nociones básicas de **implementación en FPGA**, síntesis y depuración en hardware.  
+- Un entorno de trabajo con **Windows o Linux**, acceso a internet, un **cable Micro-USB** y una **FPGA** (Basys 3 o compatible).  
+- **Xilinx Vivado** instalado para síntesis, simulación y programación del dispositivo. 
+
+---
+
+## 📖 Introducción
+
+Explicación del propósito del proyecto, qué problema aborda, cómo la simulación permite experimentar sin necesidad de hardware, y posibles aplicaciones educativas o industriales.
+
+---
+
+## 🔧 Entorno de Simulación
+
+Descripción del entorno de simulación utilizado:
+
+- Simulador principal (Webots, Gazebo, RoboDK, etc.)
+
+- Sistema operativo recomendado
+
+- Versión de ROS (si aplica)
+
+- Requisitos mínimos de hardware del equipo (RAM, CPU, GPU)
+
+---
+
+## 💾 Instalación de Software
+
+Pasos detallados para instalar y configurar el entorno de simulación:
+
+- Instalación de simulador
+
+- Instalación de ROS (si se usa)
+
+- Dependencias y librerías necesarias
+
+---
+
+## 🛠️ Configuración del Proyecto
+
+Instrucciones para clonar el repositorio, compilar, lanzar el mundo simulado y ejecutar los nodos o scripts:
+
+```bash
+git clone https://github.com/usuario/proyecto-simulacion.git
+cd proyecto-simulacion
+catkin_make
+source devel/setup.bash
+roslaunch proyecto_simulacion main.launch
+```
+
+## 💻 Programación
+
+Código de ejemplo con explicación de cada parte relevante:
+
+---
+
+## ✅ Conclusión
+
+Resumen de lo que se logró construir, aprendizajes obtenidos y posibles mejoras o versiones futuras del proyecto.
+
+---
+
+## 🔜 Mejoras futuras
+
+- Enlistar las mejoras a realizar
+
+## ⚠️ Advertencia
+
+Como se indica en la licencia MIT, este software/hardware se proporciona **sin ningún tipo de garantía**. Por lo tanto, ningún colaborador es responsable de **cualquier daño a tus componentes, materiales, PC, etc..**.
+
+---
+
+## 📚 Recursos Adicionales
+
+---
+
+## 👥 Autores del proyecto
+
+Autores originales del proyecto
+
+---
+
+## 📬 Contacto
+
+¿Tienes dudas o sugerencias?
+
+- 📧 Correo electrónico: ejemplo@udlap.mx
+
+---
