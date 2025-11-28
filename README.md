@@ -1,4 +1,4 @@
-# {Proyecto: Nombre del proyecto Hardware}
+# {Proyecto: VSM Vending State MAchine}
 ![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 ![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)  
 ![Basys 3](https://img.shields.io/badge/Basys%203-0066A1?style=for-the-badge&logo=digilent&logoColor=white)
