@@ -11,7 +11,7 @@
 
 
 
-Breve descripción del proyecto
+Este proyecto implementa un controlador de máquina expendedora completamente funcional mediante VHDL y una FPGA. El sistema admite cinco productos, acepta cuatro tipos de monedas (1, 2, 5 y 10 MXN) y utiliza una máquina de estados finitos para gestionar la selección de productos, la visualización de precios, el conteo de monedas y la dispensación de productos.
 
 ---
 
