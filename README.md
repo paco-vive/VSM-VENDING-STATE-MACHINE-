@@ -1,13 +1,22 @@
-# {Proyecto: Nombre del Proyecto Simulado}  
-![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)  
-![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)  
-[![RoboDK](https://img.shields.io/badge/Uses-RoboDK-blue?style=for-the-badge&logo=robodk)](https://robodk.com/)  
-[![Webots](https://img.shields.io/badge/Uses-Webots-cc3333?style=for-the-badge&logo=cyberbotics&logoColor=white)](https://cyberbotics.com/)  
-![Gazebo](https://img.shields.io/badge/Gazebo-black?style=for-the-badge&logo=ros&logoColor=white)  
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)  
+# {Proyecto: Nombre del proyecto Hardware}
+![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)![Not Maintained](https://img.shields.io/badge/status-not_maintained-lightgrey?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)
+[![RoboDK](https://img.shields.io/badge/Uses-RoboDK-blue?style=for-the-badge&logo=robodk)](https://robodk.com/)
+[![Webots](https://img.shields.io/badge/Uses-Webots-cc3333?style=for-the-badge&logo=cyberbotics&logoColor=white)](https://cyberbotics.com/)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)
+![Basys 3](https://img.shields.io/badge/Basys%203-0066A1?style=for-the-badge&logo=digilent&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+
+
 
 Breve descripción del proyecto
 
@@ -239,7 +248,15 @@ Como mejoras futuras, sería posible utilizar todos los botones incorporados en 
 
 ## 🔜 Mejoras futuras
 
-- Enlistar las mejoras a realizar
+- Utilizar todos los botones de la Basys 3 para ampliar el control de señales.  
+- Integrar más módulos **debouncer** para mejorar la estabilidad de las entradas.  
+- Aprovechar la segunda mitad de los displays de 7 segmentos para mostrar el **estado actual** de la máquina.  
+- Implementar una **maqueta física a escala** que simule la entrega real del producto.  
+- Incluir **servomotores** o actuadores para emular mecanismos de dispensado.  
+- Añadir un módulo de **detección automática de producto** (sensores).  
+- Incorporar un sistema de **almacenamiento de crédito** o memoria no volátil.  
+- Expandir la lógica para permitir **más productos** o denominaciones adicionales.  
+- Optimizar la máquina de estados para hacerla más modular y escalable.  
 
 ## ⚠️ Advertencia
 
@@ -253,7 +270,12 @@ Como se indica en la licencia MIT, este software se proporciona **sin ningún ti
 
 ## 👥 Autores del proyecto
 
-Autores originales del proyecto
+
+Sofía Juárez Palacios
+John Paul Jones Rosas
+Francisco Javier Castillero Sánchez
+Francisco Viveros Mendoza
+
 
 ---
 
