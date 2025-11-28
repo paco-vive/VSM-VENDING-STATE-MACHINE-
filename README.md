@@ -243,9 +243,11 @@ Explicación de la máquina de estados:
 
 ## ✅ Conclusión
 
-El proyecto permitió diseñar, simular e implementar exitosamente una máquina expendedora digital capaz de aceptar diferentes monedas, mostrar el monto acumulado en displays de 7 segmentos y despachar productos al recibir la confirmación del usuario. Todo el código fue verificado en **Active-HDL** mediante un testbench estructurado y posteriormente programado en la **FPGA Basys 3** usando **Vivado**, donde su funcionamiento coincidió plenamente con lo esperado en la simulación. Durante el desarrollo se adquirieron conocimientos clave como el manejo de señales y vectores en VHDL, la programación de lógica secuencial mediante máquinas de estados, el uso correcto de archivos de restricciones **.xdc**, así como la importancia del control de rebote (debouncing) en botones físicos.  
+El proyecto permitió diseñar, simular e implementar exitosamente una máquina expendedora digital capaz de aceptar diferentes monedas, mostrar el monto acumulado en displays de 7 segmentos y despachar productos al recibir la confirmación del usuario. Todo el código fue verificado en **Active-HDL** mediante un testbench estructurado y posteriormente programado en la **FPGA Basys 3** usando **Vivado**, donde su funcionamiento coincidió plenamente con lo esperado en la simulación. Durante el desarrollo se adquirieron conocimientos clave como el manejo de señales y vectores en VHDL, la programación de lógica secuencial mediante máquinas de estados, el uso correcto de archivos de restricciones **.xdc**, así como la importancia del control de rebote (debouncing) en botones físicos. 
 
 Como mejoras futuras, sería posible utilizar todos los botones incorporados en la Basys 3 para ampliar el manejo de señales, agregar más módulos *debouncer*, aprovechar la otra mitad de los displays de 7 segmentos para indicar al usuario el estado actual de la máquina, e incluso construir una maqueta física a escala que utilice servomotores para simular la entrega real de productos, llevando el proyecto hacia un prototipo más robusto y cercano a aplicaciones industriales.
+
+
 ---
 
 ## 🔜 Mejoras futuras
