@@ -291,7 +291,7 @@ Como se indica en la licencia MIT, este software se proporciona **sin ningún ti
 ## 📚 Recursos Adicionales
 
 Selección de productos de la máquina expendedora : 
-[Ver animación](github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/raw/main/media/gifs/gif.gif) 
+[Ver animación](https://raw.githubusercontent.com/paco-vive/VSM-VENDING-STATE-MACHINE-/main/media/gifs/gif.gif) 
 
 
 
