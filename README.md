@@ -4,6 +4,9 @@
 ![Basys 3](https://img.shields.io/badge/Basys%203-0066A1?style=for-the-badge&logo=digilent&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logoColor=white)
 
+![badges](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/badges.png) 
+
+
 
 
 
