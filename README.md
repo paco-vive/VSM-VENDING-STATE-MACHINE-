@@ -72,6 +72,9 @@ Pasos necesarios para instalar y configurar correctamente el entorno de simulaci
 4. Completar la instalación y reiniciar el equipo si es necesario.  
 5. Abrir Vivado y confirmar que reconoce la FPGA **Basys 3** al conectar el cable USB y abrir el Hardware Manager*.
 
+![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/active.png) 
+
+
 ### 3. Dependencias y librerías necesarias
 - Librerías IEEE de VHDL utilizadas en el proyecto:
   - `library IEEE`
@@ -108,9 +111,22 @@ vivado &
 
 5. Luego, desde Vivado:
    - Crear un nuevo proyecto
-   - Importar todos los archivos .vhd desde /src/
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/0.png)
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/1.png)
+   - Configurar la ventana de PART como Category : General Purpose , Family : Artix-7 , Package: cpg236 , Speed : -1.
+   - Y elige el Part xc7a35
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/2.png) 
+   - dar click en "Add sources" luego en "Add or create srouces" e importar todos los archivos .vhd desde /src/ excepto el testbench
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/3.png) 
+   - dar click en "Add sources" "Add or create constraints" 
+   -  ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/4.png) 
    - Importar el archivo .xdc para asignación de pines
-   - Seleccionar tu FPGA (ej: Basys 3 = xc7a35tcpg236-1)
+   - Dar click en GENERATE BISTREAM y esperar a que compile
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/5.png) 
+   - Conectar Vía USB-A a Micro USB la Basys 3 
+   - Abrir el Hardware Manager , Open Target , Auto Connect y Program Device
+     ![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/6.png)
+   - Observar resultados 
 
 ## 💻 Programación
 
