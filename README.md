@@ -306,9 +306,9 @@ Compra de producto de la máquina expendedora :
 ## 👥 Autores del proyecto
 
 
-Sofía Juárez Palacios
-John Paul Jones Rosas
-Francisco Javier Castillero Sánchez
+Sofía Juárez Palacios, 
+John Paul Jones Rosas, 
+Francisco Javier Castillero Sánchez,
 Francisco Viveros Mendoza
 
 
