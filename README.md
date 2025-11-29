@@ -61,6 +61,8 @@ Pasos necesarios para instalar y configurar correctamente el entorno de simulaci
 4. Activar la licencia académica (archivo o registro en línea según la versión).  
 5. Verificar que el simulador se ejecute correctamente.
 
+![ACTIVE](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/active.png) 
+
 ### 2. Instalación de Xilinx Vivado
 1. Crear una cuenta en la página oficial de Xilinx/AMD si aún no se tiene.  
 2. Descargar **AMD Unified Installer for FPGAs & Adaptive SoCs 2025.2** (gratuito).  
