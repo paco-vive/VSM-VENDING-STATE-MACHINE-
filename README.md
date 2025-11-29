@@ -72,7 +72,7 @@ Pasos necesarios para instalar y configurar correctamente el entorno de simulaci
 4. Completar la instalación y reiniciar el equipo si es necesario.  
 5. Abrir Vivado y confirmar que reconoce la FPGA **Basys 3** al conectar el cable USB y abrir el Hardware Manager*.
 
-![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/active.png) 
+![VIVADO](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/vivado.png) 
 
 
 ### 3. Dependencias y librerías necesarias
