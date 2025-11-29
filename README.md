@@ -288,6 +288,9 @@ Como se indica en la licencia MIT, este software se proporciona **sin ningún ti
 
 ## 📚 Recursos Adicionales
 
+Resultado total de la máquina expendedora : 
+https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/gifs/gif1.mp4 
+
 ---
 
 ## 👥 Autores del proyecto
