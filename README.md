@@ -1,8 +1,5 @@
 # {Proyecto: VSM Vending State Machine}
-![MIT License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Maintained](https://img.shields.io/badge/status-maintained-brightgreen?style=for-the-badge)  
-![Basys 3](https://img.shields.io/badge/Basys%203-0066A1?style=for-the-badge&logo=digilent&logoColor=white)
-![VHDL](https://img.shields.io/badge/VHDL-FFA500?style=for-the-badge&logoColor=white)
+
 
 ![badges](https://github.com/paco-vive/VSM-VENDING-STATE-MACHINE-/blob/main/media/imagenes/badges.png) 
 
