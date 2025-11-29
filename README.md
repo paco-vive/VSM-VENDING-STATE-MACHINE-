@@ -305,6 +305,7 @@ Francisco Viveros Mendoza
 
 ¿Tienes dudas o sugerencias?
 
+- Asesor encargado de la página: Sofía Juárez Palacios
 - 📧 Correo electrónico: sofia.juarezps@udlap.mx
 
 ---
